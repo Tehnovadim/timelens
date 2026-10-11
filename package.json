@@ -1,0 +1,11 @@
+{
+  "name": "timelens-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules tests/cloud.mjs && node tests/research.mjs && node tests/ui.mjs && node tests/review-ui.mjs"
+  },
+  "devDependencies": {
+    "jsdom": "26.1.0"
+  }
+}
