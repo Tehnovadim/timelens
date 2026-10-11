@@ -1,0 +1,128 @@
+{
+  "id": "01888800-1900-4000-8000-000000001960",
+  "createdAt": 1791721352342,
+  "place": "Paris, Trocadéro",
+  "translations": {
+    "ru": {
+      "place": "Париж, Трокадеро"
+    }
+  },
+  "years": [
+    1888,
+    1900,
+    1960
+  ],
+  "originalYear": 2011,
+  "original": "paris-original.webp",
+  "demo": false,
+  "sample": true,
+  "provenance": {
+    "method": "Prepared with built-in ImageGen from a licensed photo; separate from the live app API pipeline.",
+    "review": "Manual visual review; camera alignment and fine historical details are approximate."
+  },
+  "attribution": {
+    "author": "NonOmnisMoriar",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eiffel_tower_from_trocadero.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Resized original, removed metadata; three AI historical interpretations by TimeLens."
+  },
+  "frames": [
+    {
+      "year": 1888,
+      "image": "paris-1888.webp",
+      "status": "limited",
+      "evidenceType": "text",
+      "evidenceYears": "1888",
+      "sources": [
+        {
+          "title": "Eiffel Tower — construction and history",
+          "url": "https://www.toureiffel.paris/en/the-monument/history",
+          "dateRange": "1887–1889"
+        },
+        {
+          "title": "Eiffel Tower — its historic paint colours",
+          "url": "https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower",
+          "dateRange": "1887–1968"
+        },
+        {
+          "title": "City of Paris — the Trocadéro fountain",
+          "url": "https://www.paris.fr/pages/fontaine-raconte-moi-des-histoires-16377",
+          "dateRange": "1878, 1937"
+        }
+      ],
+      "text": "An interpretation of the Eiffel Tower under construction in mid-July 1888. The first floor was finished in April; the second was completed in August. The 1937 Warsaw fountain is absent. The weather follows the original photo.",
+      "uncertainties": "Exact garden layout, pedestrians, construction equipment and pixel alignment are approximate. This is not an archival photograph.",
+      "translations": {
+        "ru": {
+          "text": "Интерпретация строительства Эйфелевой башни в середине июля 1888 года. Первый этаж закончили в апреле, второй — в августе. Варшавского фонтана 1937 года ещё нет. Погода взята из исходного снимка.",
+          "uncertainties": "Точная планировка сада, прохожие, строительное оборудование и совмещение кадров приблизительны. Это не архивная фотография."
+        }
+      }
+    },
+    {
+      "year": 1900,
+      "image": "paris-1900.webp",
+      "status": "limited",
+      "evidenceType": "text",
+      "evidenceYears": "1899–1900",
+      "sources": [
+        {
+          "title": "Eiffel Tower — construction and history",
+          "url": "https://www.toureiffel.paris/en/the-monument/history",
+          "dateRange": "1887–1889"
+        },
+        {
+          "title": "Eiffel Tower — its historic paint colours",
+          "url": "https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower",
+          "dateRange": "1887–1968"
+        },
+        {
+          "title": "City of Paris — the Trocadéro fountain",
+          "url": "https://www.paris.fr/pages/fontaine-raconte-moi-des-histoires-16377",
+          "dateRange": "1878, 1937"
+        }
+      ],
+      "text": "A completed tower during the 1900 World Fair, interpreted with the graduated yellow-ochre paint applied in 1899. No modern broadcast mast. The foreground suggests the older Trocadéro garden rather than the fountain built in 1937.",
+      "uncertainties": "The arrangement of exhibition buildings, gardens, vehicles and people is illustrative; it is not an exact reconstruction of a dated archive view.",
+      "translations": {
+        "ru": {
+          "text": "Завершённая башня во время Всемирной выставки 1900 года. Интерпретирована жёлто-охристая окраска с градацией, нанесённая в 1899 году. Современной радиомачты нет. На переднем плане — интерпретация старого сада Трокадеро, а не фонтана, построенного в 1937 году.",
+          "uncertainties": "Расположение выставочных зданий, садов, транспорта и людей иллюстративно; это не точное воспроизведение датированного архивного вида."
+        }
+      }
+    },
+    {
+      "year": 1960,
+      "image": "paris-1960.webp",
+      "status": "limited",
+      "evidenceType": "mixed",
+      "evidenceYears": "1937–1961",
+      "sources": [
+        {
+          "title": "Eiffel Tower — its historic paint colours",
+          "url": "https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower",
+          "dateRange": "1887–1968"
+        },
+        {
+          "title": "Eiffel Tower — the history of its height",
+          "url": "https://www.toureiffel.paris/en/news/history-and-culture/300-330-meters-story-towers-height",
+          "dateRange": "1889–2022"
+        },
+        {
+          "title": "City of Paris — the Trocadéro fountain",
+          "url": "https://www.paris.fr/pages/fontaine-raconte-moi-des-histoires-16377",
+          "dateRange": "1878, 1937"
+        }
+      ],
+      "text": "Paris around 1960, with the fountain introduced in 1937, the broadcasting mast added in 1957 and the reddish-brown paint used in 1954 and 1961. Modern vehicles are replaced by period suggestions. Sunlight and blue sky follow the 2011 photo.",
+      "uncertainties": "Individual vehicles, people, foliage, distant roofs and precise camera alignment are approximate.",
+      "translations": {
+        "ru": {
+          "text": "Париж около 1960 года: фонтан 1937 года, радиомачта, добавленная в 1957 году, и красно-коричневая окраска, применявшаяся в 1954 и 1961 годах. Современный транспорт заменён приблизительными моделями эпохи. Свет и голубое небо взяты из фото 2011 года.",
+          "uncertainties": "Отдельные автомобили, люди, растительность, дальние крыши и точное совмещение ракурса приблизительны."
+        }
+      }
+    }
+  ]
+}
